@@ -1,0 +1,37 @@
+body {
+	background: #efefef;
+	margin: 0;
+	padding: 0;
+	border: none;
+	text-align: center;
+	font: normal 13px Georgia, "Times New Roman", Times, serif;
+	color: #222;
+	background-color: #EFEFEF;  /* #1FA1E6*/
+}
+
+#content {
+	width: 500px;
+	margin: 20px auto;
+	margin-bottom: 25px;
+	padding: 0;
+	text-align: center;
+}
+
+#list ul{
+	
+}
+
+#list ul li{
+	list-style-type: none;
+	display: inline-block;
+	list-style-type: none;
+	margin: 10px;
+}
+
+#list ul li a{
+	background-color: #FFFFFF;
+    color: #111111;
+    font-size: 20px;
+    padding: 10px;
+	text-decoration: none;
+}
